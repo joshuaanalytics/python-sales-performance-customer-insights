@@ -190,12 +190,12 @@ For a more detailed discussion, see the [One-Page Insights Summary](One-Page%20I
 
 ### Charts
 
-- [01 Monthly Revenue](charts/01_monthly_revenue.png)
-- [02 Top 10 Products](charts/02_top_10_products.png)
-- [03 Revenue by Region](charts/03_revenue_by_region.png)
-- [04 Customer Spend Distribution](charts/04_customer_spend_distribution.png)
-- [05 Monthly Returns](charts/05_monthly_returns.png)
-- [Dashboard 1920 × 1080](charts/dashboard_1920x1080.png)
+- [01 Monthly Revenue](01_monthly_revenue.png)
+- [02 Top 10 Products](02_top_10_products.png)
+- [03 Revenue by Region](03_revenue_by_region.png)
+- [04 Customer Spend Distribution](04_customer_spend_distribution.png)
+- [05 Monthly Returns](05_monthly_returns.png)
+- [Dashboard 1920 × 1080](dashboard_1920x1080.png)
 
 ### Final Report
 
