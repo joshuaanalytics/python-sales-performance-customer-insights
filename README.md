@@ -8,7 +8,7 @@
 
 This project analyzes a synthetic Philippine retail/e-commerce dataset to understand store performance, customer purchasing behavior, product performance, regional sales, and return activity.
 
-Using Python, Pandas, and Matplotlib, the project demonstrates a complete data analysis workflow, from data loading and cleaning to data integration, exploratory analysis, visualization, and business recommendations.
+Using Python, Pandas, and Matplotlib, the project demonstrates an end-to-end data analysis workflow, from data loading and cleaning to data integration, exploratory analysis, visualization, and business recommendations.
 
 ### Business Question
 
@@ -98,21 +98,24 @@ The project includes a consolidated dashboard created at **1920 × 1080 pixels**
 
 ![Retail Sales Performance Dashboard](dashboard_1920x1080.png)
 
-### Supporting Charts
-
 ### Monthly Revenue
+
 ![Monthly Revenue](01_monthly_revenue.png)
 
 ### Top 10 Products
+
 ![Top 10 Products](02_top_10_products.png)
 
 ### Revenue by Region
+
 ![Revenue by Region](03_revenue_by_region.png)
 
 ### Customer Spend Distribution
+
 ![Customer Spend Distribution](04_customer_spend_distribution.png)
 
 ### Monthly Returns
+
 ![Monthly Returns](05_monthly_returns.png)
 
 ---
@@ -180,15 +183,15 @@ For a more detailed discussion, see the [One-Page Insights Summary](One-Page%20I
 
 ### Cleaned Datasets
 
-[Cleaned Customers CSV](cleaned_customers.csv)
+- [Cleaned Customers CSV](cleaned_customers.csv)
+- [Cleaned Products CSV](cleaned_products.csv)
 
-[Cleaned Products CSV](cleaned_products.csv)
+### Project Summaries
 
-[Executive Summary](Executive%20Summary.txt)
+- [Executive Summary.txt](Executive%20Summary.txt)
+- [One-Page Insights Summary.md](One-Page%20Insights%20Summary.md)
 
-[One-Page Insights Summary](One-Page%20Insights%20Summary.md)
-
-### Charts
+### Exported Charts
 
 - [01 Monthly Revenue](01_monthly_revenue.png)
 - [02 Top 10 Products](02_top_10_products.png)
@@ -196,10 +199,6 @@ For a more detailed discussion, see the [One-Page Insights Summary](One-Page%20I
 - [04 Customer Spend Distribution](04_customer_spend_distribution.png)
 - [05 Monthly Returns](05_monthly_returns.png)
 - [Dashboard 1920 × 1080](dashboard_1920x1080.png)
-
-### Final Report
-
-The completed capstone report in PDF format can be found in the `report` folder once uploaded.
 
 ---
 
