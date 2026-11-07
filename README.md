@@ -96,7 +96,7 @@ The project includes a consolidated dashboard created at **1920 × 1080 pixels**
 
 ### Main Dashboard
 
-![Retail Sales Performance Dashboard](charts/dashboard_1920x1080.png)
+![Retail Sales Performance Dashboard](dashboard_1920x1080.png)
 
 ### Supporting Charts
 
