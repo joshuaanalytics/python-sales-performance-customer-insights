@@ -51,7 +51,7 @@ The datasets represent synthetic Philippine retail/e-commerce training data.
 - Central Luzon generated the highest regional revenue at approximately **₱926,983**.
 - The findings highlight opportunities to review product profitability, support customer retention, monitor regional performance, and investigate returns.
 
-A separate copy is available in [Executive Summary.txt](Executive%20Summary.txt).
+A separate copy is available in [Executive Summary.txt](Executive%20Summary.txt)..
 
 ---
 
