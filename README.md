@@ -100,11 +100,20 @@ The project includes a consolidated dashboard created at **1920 × 1080 pixels**
 
 ### Supporting Charts
 
-1. [Monthly Revenue](charts/01_monthly_revenue.png)
-2. [Top 10 Products](charts/02_top_10_products.png)
-3. [Revenue by Region](charts/03_revenue_by_region.png)
-4. [Customer Spend Distribution](charts/04_customer_spend_distribution.png)
-5. [Monthly Returns](charts/05_monthly_returns.png)
+### Monthly Revenue
+![Monthly Revenue](01_monthly_revenue.png)
+
+### Top 10 Products
+![Top 10 Products](02_top_10_products.png)
+
+### Revenue by Region
+![Revenue by Region](03_revenue_by_region.png)
+
+### Customer Spend Distribution
+![Customer Spend Distribution](04_customer_spend_distribution.png)
+
+### Monthly Returns
+![Monthly Returns](05_monthly_returns.png)
 
 ---
 
