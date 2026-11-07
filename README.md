@@ -22,7 +22,9 @@ The analysis uses Python and Pandas for data cleaning, preparation, integration,
 - Repeat customers represented 74.8% of purchasing customers.
 - Toys recorded the highest category revenue at ₱738,320.75.
 - Central Luzon generated the highest regional revenue at approximately ₱926,983.
-- The findings highlight opportunities to review product profitability, support customer retention, monitor regional performance, and investigate returns.## Key Findings
+- The findings highlight opportunities to review product profitability, support customer retention, monitor regional performance, and investigate returns.
+
+## Key Findings
 
 - Merchandise revenue was **₱5,293,430.12** across **11,601 eligible orders**.
 - Average order value was **₱456.29**.
