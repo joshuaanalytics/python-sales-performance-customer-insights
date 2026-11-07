@@ -1,54 +1,55 @@
 # One-Page Insights Summary
 ## Retail Sales Performance & Customer Insights
 
-### Project Objective
+### Project Overview
 
-The project examined a synthetic Philippine retail/e-commerce dataset to assess sales performance, customer purchasing behavior, product performance, regional revenue, and return activity.
+This analysis examined a synthetic Philippine retail/e-commerce dataset to evaluate sales performance, customer purchasing behavior, product performance, regional revenue, and return activity. Seven related datasets were cleaned, integrated, and analyzed using Python, Pandas, and Matplotlib.
+
+### Key Performance Indicators
+
+| Metric | Result |
+|---|---:|
+| Merchandise Revenue | ₱5,293,430.12 |
+| Eligible Orders | 11,601 |
+| Average Order Value | ₱456.29 |
+| Purchasing Customers | 4,519 |
+| Repeat Customers | 3,378 |
+| Repeat Customer Rate | 74.8% |
+| Orders with Return Records | 957 |
+| Return-Record Rate | 8.2% |
 
 ### Key Findings
 
-**Overall Sales Performance**
+**1. Product Performance**
 
-The analysis recorded **₱5,293,430.12** in merchandise revenue across **11,601 eligible orders**, with an average order value of **₱456.29**. Revenue is measured after discounts and before refunds, excluding shipping charges. Only completed and shipped orders were included.
+Toys generated the highest category revenue at ₱738,320.75, followed by Electronics at ₱719,343.29. These categories are important contributors to overall merchandise revenue. However, revenue alone does not establish profitability, so product costs and margins should also be reviewed.
 
-**Customer Behavior**
+**2. Regional Performance**
 
-There were **4,519 purchasing customers**, of whom **3,378 were repeat customers**, resulting in a repeat customer rate of **74.8%**.
+Central Luzon recorded the highest regional revenue at approximately ₱926,983, representing around 17.5% of total merchandise revenue. This region may warrant further analysis of customer demand, product preferences, and fulfillment performance.
 
-**Product Performance**
+**3. Revenue Trend**
 
-Toys generated the highest category revenue at **₱738,320.75**, followed by Electronics at **₱719,343.29**. Revenue alone does not establish profitability.
+Annual revenue decreased by approximately 1.8% from 2024 to 2025. This relatively small decline should be investigated through monthly and category-level comparisons. January 2026 represents only a partial year and should not be compared directly with full-year results.
 
-**Regional Performance**
+**4. Customer Behavior**
 
-Central Luzon recorded the highest regional revenue at approximately **₱926,983**, or around **17.5%** of total merchandise revenue.
+The repeat customer rate was 74.8%, indicating that repeat purchasing accounts for a substantial share of customer activity. Customer retention and purchasing frequency are therefore useful areas for further investigation.
 
-**Revenue Trend**
+**5. Return Activity**
 
-Annual revenue decreased by approximately **1.8%** from 2024 to 2025. January 2026 represents only a partial year and should not be directly compared with full-year totals.
+A total of 957 eligible orders had at least one associated return record, equivalent to an 8.2% return-record rate. Further analysis of return reasons may help identify opportunities to improve product information, order accuracy, quality checks, and delivery processes.
 
-**Returns**
+### Business Recommendations
 
-A total of **957 eligible orders** had at least one associated return record, representing a return-record rate of **8.2%**. This is not the percentage of items returned or the refund rate.
-
-### Business Insights
-
-- Repeat purchasing represents a substantial share of customer activity.
-- Toys and Electronics are the leading revenue-generating categories.
-- Central Luzon is the strongest regional revenue contributor.
-- The annual revenue decline warrants further monitoring.
-- Return activity should be reviewed for opportunities to improve product information, order accuracy, quality checks, and delivery experience.
-
-### Recommendations
-
-1. Review product costs and profit margins before making inventory or promotional decisions.
-2. Monitor repeat purchasing and consider customer engagement initiatives.
-3. Examine regional demand and fulfillment patterns, particularly in Central Luzon.
-4. Track monthly revenue and investigate the decline between 2024 and 2025.
-5. Review return reasons and assess improvements to product descriptions, images, sizing or compatibility information, quality checks, and order fulfillment.
+1. **Review product profitability:** Examine costs and profit margins of high-revenue categories before making inventory and promotional decisions.
+2. **Support customer retention:** Monitor repeat purchasing behavior and consider customer engagement or loyalty initiatives.
+3. **Investigate regional performance:** Examine demand and fulfillment patterns in Central Luzon and other regions.
+4. **Monitor revenue trends:** Track monthly performance and investigate the decrease between 2024 and 2025.
+5. **Review return activity:** Analyze return reasons and identify possible improvements in product descriptions, quality checks, and order fulfillment.
 
 ### Conclusion
 
-The project demonstrates how Python can be used to clean, integrate, analyze, and visualize related retail datasets. The resulting KPIs and charts provide a structured view of sales and customer activity.
+The analysis provides a structured view of retail sales performance and customer activity. The findings highlight the importance of monitoring product performance, customer retention, regional revenue, and returns when making business decisions.
 
-**Data limitation:** The dataset is synthetic and intended for training. The findings are descriptive and do not establish the causes of observed trends.
+**Data Limitation:** The datasets are synthetic training data. Findings are descriptive and apply only to the supplied dataset. They should not be interpreted as actual business performance or proof of the causes behind observed trends.
