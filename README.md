@@ -12,7 +12,17 @@ The analysis uses Python and Pandas for data cleaning, preparation, integration,
 
 **How is the store performing, and what drives revenue?**
 
-## Key Findings
+## Executive Summary
+
+- This project examined sales performance and customer insights using a synthetic Philippine retail/e-commerce dataset.
+- Seven related datasets were reviewed, cleaned, and prepared using Python and Pandas.
+- The analysis produced an integrated sales fact table based on completed and shipped orders.
+- Total merchandise revenue was ₱5,293,430.12 across 11,601 eligible orders.
+- Average order value was ₱456.29.
+- Repeat customers represented 74.8% of purchasing customers.
+- Toys recorded the highest category revenue at ₱738,320.75.
+- Central Luzon generated the highest regional revenue at approximately ₱926,983.
+- The findings highlight opportunities to review product profitability, support customer retention, monitor regional performance, and investigate returns.## Key Findings
 
 - Merchandise revenue was **₱5,293,430.12** across **11,601 eligible orders**.
 - Average order value was **₱456.29**.
