@@ -180,16 +180,13 @@ For a more detailed discussion, see the [One-Page Insights Summary](One-Page%20I
 
 ### Cleaned Datasets
 
-- [Cleaned Customers CSV](data/cleaned_customers.csv)
-- [Cleaned Products CSV](data/cleaned_products.csv)
+[Cleaned Customers CSV](cleaned_customers.csv)
 
-### Executive Summary
+[Cleaned Products CSV](cleaned_products.csv)
 
-- [Executive Summary.txt](Executive%20Summary.txt)
+[Executive Summary](Executive%20Summary.txt)
 
-### One-Page Insights Summary
-
-- [One-Page Insights Summary.md](One-Page%20Insights%20Summary.md)
+[One-Page Insights Summary](One-Page%20Insights%20Summary.md)
 
 ### Charts
 
