@@ -161,7 +161,7 @@ Sales analysis focused on completed and shipped orders. Payments, returns, and s
 - The annual revenue decline warrants further monitoring by month, product category, and sales channel.
 - Return activity should be examined to identify possible improvements in product information, order accuracy, quality checks, and delivery experience.
 
-For a more detailed discussion, see the [One-Page Insights Summary](One-Page%20Insights%20Summary.md).
+For a more detailed discussion, see the [One-Page Insights Summary](One-Page%20Insights%20Summary.md)
 
 ---
 
@@ -189,7 +189,7 @@ For a more detailed discussion, see the [One-Page Insights Summary](One-Page%20I
 ### Project Summaries
 
 - [Executive Summary.txt](Executive%20Summary.txt)
-- [One-Page Insights Summary.md](One-Page%20Insights%20Summary.md)
+- [One-Page Insights Summary](One-Page%20Insights%20Summary.md)
 
 ### Exported Charts
 
