@@ -1,0 +1,10 @@
+• This project analyzes a synthetic Philippine retail/e-commerce dataset covering January 2024 to January 2026.
+• Seven related CSV files were loaded: customers, orders, products, order items, payments, returns, and shipments.
+• Cleaning addressed exact duplicates, invalid quantities and ages, missing values, inconsistent categories, mixed dates, currency strings, and orphan join keys.
+• A validated item-level fact table was created by joining orders, order items, products, and customers.
+• Recognized merchandise revenue was calculated for Completed and Shipped orders after applying order discounts.
+• The analysis identified ₱5.29 million in merchandise revenue across 11,601 eligible orders.
+• Average order value was ₱456.29, based on merchandise revenue divided by eligible orders.
+• Toys was the highest-revenue category at approximately ₱738,321; Central Luzon led regional revenue at approximately ₱926,983.
+• Repeat customers represented 74.8% of purchasing customers under the two-or-more-orders definition.
+• 957 eligible orders had a return record, equivalent to an 8.2% return-record rate; results are descriptive and do not establish causation.
