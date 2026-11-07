@@ -51,4 +51,4 @@ A total of **957 eligible orders** had at least one associated return record, re
 
 The project demonstrates how Python can be used to clean, integrate, analyze, and visualize related retail datasets. The resulting KPIs and charts provide a structured view of sales and customer activity.
 
-**Data limitation:** The dataset is synthetic and intended for training. The findings are descriptive and do not establish the causes of observed trends.
+**Data limitation:** The dataset is synthetic and intended for training. The findings are descriptive and do not establish the causes of observed trends..
